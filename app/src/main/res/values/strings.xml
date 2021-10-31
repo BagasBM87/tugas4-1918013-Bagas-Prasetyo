@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">tugas4_recyclerView</string>
+
+    <string-array name="Programming">
+
+        <item>Adobe XD</item>
+        <item>Facebook</item>
+        <item>Figma</item>
+        <item>Line</item>
+        <item>Firefox</item>
+        <item>Whatsapp</item>
+        <item>Youtube</item>
+        <item>Instagram</item>
+    </string-array>
+
+    <string-array name="descriptoion">
+
+        <item>Design Aplication</item>
+        <item>Social Media</item>
+        <item>Design Aplication</item>
+        <item>Social Media</item>
+        <item>Browser</item>
+        <item>Social Media</item>
+        <item>Social Media</item>
+        <item>Social Media</item>
+    </string-array>
+</resources>
